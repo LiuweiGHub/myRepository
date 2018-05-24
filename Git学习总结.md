@@ -33,13 +33,21 @@ Linus花了两周时间自己用C写了一个分布式版本控制系统，这�
 ## 四、git的使用
 ### 4.1 常用命令
 1.创建respository   	 ```git init```
+
 2.添加文件到暂存区   	```git add [fileName]```
+
 3.提交文件     	   ```git commit -m"xxxxxxx" [fileName] //相当于保存一个快照```
+
 4.查看文件状态    ```git status```
+
 5.对比文件        ```git diff [fileName]```
+
 6.查看历史        ```git log [--pretty=oneline]```
+
 7.版本回退        ```git reset --hard [HEAD^|HEAD^^|HEAD^^^|HEAD~100|82egc85]``` //git版本回退仅仅是HEAD指针的移动，速度非常快
+
 8.git add前撤销修改        ```git checkout --fileName``` 
+
 9.git add后撤销修改      ```git reset HEAD [file]```
 
 10.切换分支 ```git checkout [master|dev]```
