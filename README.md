@@ -22,5 +22,6 @@
 - RabbitMq学习&&使用
 - shell编程入门
 - Crontab
+- Haproxy + keepalive 构建高可用集群
 
 
