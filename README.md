@@ -20,6 +20,7 @@
 ### 2018-06 学习计划
 - laravel框架回顾
 - RabbitMq学习&&使用
+- phpExcel体验
 - shell编程入门
 - Crontab
 - Haproxy + keepalive 构建高可用集群
