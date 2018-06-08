@@ -26,5 +26,6 @@
 - Haproxy + keepalive 构建高可用集群
 - PHP并发加锁问题分析与设计 + 策略模式
 - 非对称加密算法 与 HTTPS
+- php基于Token的身份验证
 
 
