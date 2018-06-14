@@ -29,4 +29,5 @@
 - php基于Token的身份验证
 - 依赖注入（DI）&& 控制反转（IOC）理解
 - PHP闭包和匿名函数
+- 利用Xhprof分析PHP脚本性能
 
