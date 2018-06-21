@@ -19,6 +19,7 @@
 
 ### 2018-06 学习计划
 - laravel框架回顾
+ - 实例：基于laravel+pusher+vue通过事件广播构建实时聊天室应用[http://laravelacademy.org/post/9408.html]
 - RabbitMq学习&&使用
 - phpExcel体验
 - shell编程入门
