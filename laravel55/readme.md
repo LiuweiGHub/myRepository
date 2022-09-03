@@ -15,7 +15,7 @@ To wen:
 - PHP Tokenizer 扩展
 - PHP XML 扩展
 
-  homestead集成了laravel运行需要的所有条件，debug不必再担心环境问题。使用ruby实现。安装详细流程：http://oomusou.io/laravel/homestead/homestead-macos/
+  homestead集成了laravel运行需要的所有条件，debug不必再担心环境问题。使用ruby实现。安装详细流程：https://old-oomusou.goodjack.tw/laravel/homestead/homestead-macos/
 
 ```php
 //安装homestead时报错 ：OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 54
